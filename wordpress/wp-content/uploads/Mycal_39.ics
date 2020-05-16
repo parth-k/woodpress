@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:cd310afc2c82ff1a0c6ac0022e4782bb
+SUMMARY:abc school - 18 May 2020 11:00
+DTSTART;TZID=+00:00:20200518T110000
+DTEND;TZID=+00:00:20200518T120000
+DESCRIPTION:Salon name: abc school \n\nSalon address: Main Street 123 \n\nSalon phone: 00391122334455 \n\nSalon email: parthkundaliya4@gmail.com \n\nBooked services:\nManicure: 11:00 ➝ 11:00\n\nBooking notes:\nNone\n\nBooking status: Confirmed
+LOCATION:Main Street 123
+END:VEVENT
+END:VCALENDAR
